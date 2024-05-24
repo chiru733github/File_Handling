@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmcdJG1rIm5BirSRDROfY9de9GLZu5QqG94hPqJhZpKZ1wVX+c05drQ2CBt2zkiUWmaB05Bad3CVkpbf0cMbEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pagad\\source\\repos\\Problems\\File_Handling\\File_Handling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pagad\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512",
+    "C:\\Users\\pagad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
